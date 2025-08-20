@@ -1,0 +1,7 @@
+1) mkdir test_dir,touch example.txt,mv example.txt renamed_example.txt
+2) cat /etc/passwd, head -5 /etc/passwd , tail -5 /etc/passwd
+3) grep "root" /etc/passwd
+4) zip -r test_dir.zip ~/TutedudeDevops/test_dir, unzip ~/test_dir -d unzipped_dir
+5) wget https://germanauto.co.uk/wp-content/uploads/2021/07/Featued-Image-BMW.png -O bmw.png
+6) chmod 444 ./securefile.txt
+7) export MY_VAR="Hello,Linux!", echo $MY_VAR
